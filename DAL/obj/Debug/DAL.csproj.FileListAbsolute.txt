@@ -1,0 +1,8 @@
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\bin\Debug\DAL.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\bin\Debug\DAL.pdb
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\bin\Debug\Modelo.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\bin\Debug\MySql.Data.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\bin\Debug\Modelo.pdb
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\obj\Debug\DAL.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\DAL\obj\Debug\DAL.pdb

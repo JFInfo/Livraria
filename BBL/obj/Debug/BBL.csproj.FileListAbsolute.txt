@@ -1,0 +1,10 @@
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\obj\Debug\BBL.csprojResolveAssemblyReference.cache
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\bin\Debug\BBL.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\bin\Debug\BBL.pdb
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\bin\Debug\DAL.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\bin\Debug\Modelo.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\bin\Debug\MySql.Data.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\bin\Debug\DAL.pdb
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\bin\Debug\Modelo.pdb
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\obj\Debug\BBL.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\BBL\obj\Debug\BBL.pdb

@@ -1,0 +1,4 @@
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\Modelo\bin\Debug\Modelo.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\Modelo\bin\Debug\Modelo.pdb
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\Modelo\obj\Debug\Modelo.dll
+C:\Users\Joseph\documents\visual studio 2017\Projects\Nandyala\Modelo\obj\Debug\Modelo.pdb
